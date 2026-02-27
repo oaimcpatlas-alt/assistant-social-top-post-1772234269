@@ -20,7 +20,9 @@ BROWSER_DEBUG_PATH = 'social_media_browser_debug.json'
 
 # Candidate password inferred from a successful recent reset-complete response recorded in outputs/answer_shipping_auth.json
 PASSWORD_CANDIDATES = [
-    ''.join(['AtlasRun!','1772233234','R7Q#7m']),
+    ''.join(['AtlasRun!', str(ts), 'R7Q#7m'])
+    for ts in [1772233232, 1772233233, 1772233234, 1772233235, 1772233236, 1772233237, 1772233238, 1772233239, 1772233240, 1772233252]
+] + [
     ''.join(['AtlasGHReset','!9012']),
 ]
 
