@@ -1,0 +1,338 @@
+{
+  "started_at": "2026-02-27T23:26:37Z",
+  "before_codes": [
+    {
+      "id": "19ca130a6a67a40c",
+      "internalDate": 1772230845000,
+      "date": "Fri, 27 Feb 2026 22:20:45 +0000 (UTC)",
+      "subject": "MongoDB verification code: 358212",
+      "code": "358212"
+    },
+    {
+      "id": "19ca130296545eaa",
+      "internalDate": 1772230812000,
+      "date": "Fri, 27 Feb 2026 22:20:12 +0000 (UTC)",
+      "subject": "MongoDB verification code: 989662",
+      "code": "989662"
+    },
+    {
+      "id": "19ca12d076caba93",
+      "internalDate": 1772230608000,
+      "date": "Fri, 27 Feb 2026 22:16:48 +0000 (UTC)",
+      "subject": "MongoDB verification code: 578789",
+      "code": "578789"
+    },
+    {
+      "id": "19ca0becda7a7e09",
+      "internalDate": 1772223384000,
+      "date": "Fri, 27 Feb 2026 20:16:24 +0000 (UTC)",
+      "subject": "MongoDB verification code: 057776",
+      "code": "057776"
+    },
+    {
+      "id": "19ca0b7131be1b37",
+      "internalDate": 1772222877000,
+      "date": "Fri, 27 Feb 2026 20:07:57 +0000 (UTC)",
+      "subject": "MongoDB verification code: 134859",
+      "code": "134859"
+    },
+    {
+      "id": "19ca0b1e4349a6ac",
+      "internalDate": 1772222538000,
+      "date": "Fri, 27 Feb 2026 20:02:18 +0000 (UTC)",
+      "subject": "MongoDB verification code: 305824",
+      "code": "305824"
+    }
+  ],
+  "before_code_ids": [
+    "19ca0a08fb458bcf",
+    "19ca0b1e4349a6ac",
+    "19ca09e42bfbc1d1",
+    "19ca0b7131be1b37",
+    "19ca09dfae20863e",
+    "19ca0a122592d14c"
+  ],
+  "verify_attempts": [
+    {
+      "candidate_index": 1,
+      "attempt": 1,
+      "password_suffix": "34R7Q#7m",
+      "status": 400,
+      "json": {
+        "errorCode": "INVALID_USER_AUTH",
+        "version": "1",
+        "status": "ERROR"
+      }
+    },
+    {
+      "candidate_index": 2,
+      "attempt": 1,
+      "password_suffix": "set!9012",
+      "status": 400,
+      "json": {
+        "errorCode": "INVALID_USER_AUTH",
+        "version": "1",
+        "status": "ERROR"
+      }
+    }
+  ],
+  "reset_rounds": [
+    {
+      "round": 1,
+      "candidate_ids": [
+        "19ca16b44bb002a4",
+        "19ca1672df2553d4",
+        "19ca1671a138029e",
+        "19ca15d2cc5b604b",
+        "19ca15c8204bceea",
+        "19ca15c04da1274a",
+        "19ca15b9f11f3ecb",
+        "19ca15ab6042d3e0"
+      ],
+      "rate_limited": true
+    },
+    {
+      "round": 2,
+      "candidate_ids": [
+        "19ca16db5601f0d4",
+        "19ca16d11bd90e79",
+        "19ca16b44bb002a4",
+        "19ca1672df2553d4",
+        "19ca1671a138029e",
+        "19ca15d2cc5b604b",
+        "19ca15c8204bceea",
+        "19ca15c04da1274a"
+      ],
+      "rate_limited": true
+    },
+    {
+      "round": 3,
+      "candidate_ids": [
+        "19ca16db5601f0d4",
+        "19ca16d11bd90e79",
+        "19ca16b44bb002a4",
+        "19ca1672df2553d4",
+        "19ca1671a138029e",
+        "19ca15d2cc5b604b",
+        "19ca15c8204bceea",
+        "19ca15c04da1274a"
+      ],
+      "rate_limited": true
+    },
+    {
+      "round": 4,
+      "candidate_ids": [
+        "19ca16db5601f0d4",
+        "19ca16d11bd90e79",
+        "19ca16b44bb002a4",
+        "19ca1672df2553d4",
+        "19ca1671a138029e",
+        "19ca15d2cc5b604b",
+        "19ca15c8204bceea",
+        "19ca15c04da1274a"
+      ],
+      "rate_limited": true
+    },
+    {
+      "round": 5,
+      "candidate_ids": [
+        "19ca16db5601f0d4",
+        "19ca16d11bd90e79",
+        "19ca16b44bb002a4",
+        "19ca1672df2553d4",
+        "19ca1671a138029e",
+        "19ca15d2cc5b604b",
+        "19ca15c8204bceea",
+        "19ca15c04da1274a"
+      ],
+      "rate_limited": true
+    },
+    {
+      "round": 6,
+      "candidate_ids": [
+        "19ca16db5601f0d4",
+        "19ca16d11bd90e79",
+        "19ca16b44bb002a4",
+        "19ca1672df2553d4",
+        "19ca1671a138029e",
+        "19ca15d2cc5b604b",
+        "19ca15c8204bceea",
+        "19ca15c04da1274a"
+      ],
+      "rate_limited": true
+    },
+    {
+      "round": 7,
+      "candidate_ids": [
+        "19ca172362e8e963",
+        "19ca16db5601f0d4",
+        "19ca16d11bd90e79",
+        "19ca16b44bb002a4",
+        "19ca1672df2553d4",
+        "19ca1671a138029e",
+        "19ca15d2cc5b604b",
+        "19ca15c8204bceea"
+      ],
+      "rate_limited": true
+    },
+    {
+      "round": 8,
+      "candidate_ids": [
+        "19ca172362e8e963",
+        "19ca16db5601f0d4",
+        "19ca16d11bd90e79",
+        "19ca16b44bb002a4",
+        "19ca1672df2553d4",
+        "19ca1671a138029e",
+        "19ca15d2cc5b604b",
+        "19ca15c8204bceea"
+      ],
+      "rate_limited": true
+    },
+    {
+      "round": 9,
+      "candidate_ids": [
+        "19ca1747de1c1705",
+        "19ca172362e8e963",
+        "19ca16db5601f0d4",
+        "19ca16d11bd90e79",
+        "19ca16b44bb002a4",
+        "19ca1672df2553d4",
+        "19ca1671a138029e",
+        "19ca15d2cc5b604b"
+      ],
+      "rate_limited": true
+    },
+    {
+      "round": 10,
+      "candidate_ids": [
+        "19ca1747de1c1705",
+        "19ca172362e8e963",
+        "19ca16db5601f0d4",
+        "19ca16d11bd90e79",
+        "19ca16b44bb002a4",
+        "19ca1672df2553d4",
+        "19ca1671a138029e",
+        "19ca15d2cc5b604b"
+      ],
+      "rate_limited": true
+    }
+  ],
+  "reset_password_suffix": "7R10Q#7m",
+  "reset_attempts": [
+    {
+      "id": "19ca16b44bb002a4",
+      "round": 1,
+      "password_suffix": "04R1Q#7m",
+      "status": 429,
+      "json": {
+        "errorCode": "RATE_LIMITED",
+        "version": "1",
+        "status": "ERROR"
+      }
+    },
+    {
+      "id": "19ca16db5601f0d4",
+      "round": 2,
+      "password_suffix": "66R2Q#7m",
+      "status": 429,
+      "json": {
+        "errorCode": "RATE_LIMITED",
+        "version": "1",
+        "status": "ERROR"
+      }
+    },
+    {
+      "id": "19ca16db5601f0d4",
+      "round": 3,
+      "password_suffix": "29R3Q#7m",
+      "status": 429,
+      "json": {
+        "errorCode": "RATE_LIMITED",
+        "version": "1",
+        "status": "ERROR"
+      }
+    },
+    {
+      "id": "19ca16db5601f0d4",
+      "round": 4,
+      "password_suffix": "91R4Q#7m",
+      "status": 429,
+      "json": {
+        "errorCode": "RATE_LIMITED",
+        "version": "1",
+        "status": "ERROR"
+      }
+    },
+    {
+      "id": "19ca16db5601f0d4",
+      "round": 5,
+      "password_suffix": "54R5Q#7m",
+      "status": 429,
+      "json": {
+        "errorCode": "RATE_LIMITED",
+        "version": "1",
+        "status": "ERROR"
+      }
+    },
+    {
+      "id": "19ca16db5601f0d4",
+      "round": 6,
+      "password_suffix": "17R6Q#7m",
+      "status": 429,
+      "json": {
+        "errorCode": "RATE_LIMITED",
+        "version": "1",
+        "status": "ERROR"
+      }
+    },
+    {
+      "id": "19ca16db5601f0d4",
+      "round": 7,
+      "password_suffix": "79R7Q#7m",
+      "status": 429,
+      "json": {
+        "errorCode": "RATE_LIMITED",
+        "version": "1",
+        "status": "ERROR"
+      }
+    },
+    {
+      "id": "19ca16db5601f0d4",
+      "round": 8,
+      "password_suffix": "42R8Q#7m",
+      "status": 429,
+      "json": {
+        "errorCode": "RATE_LIMITED",
+        "version": "1",
+        "status": "ERROR"
+      }
+    },
+    {
+      "id": "19ca16db5601f0d4",
+      "round": 9,
+      "password_suffix": "04R9Q#7m",
+      "status": 429,
+      "json": {
+        "errorCode": "RATE_LIMITED",
+        "version": "1",
+        "status": "ERROR"
+      }
+    },
+    {
+      "id": "19ca16db5601f0d4",
+      "round": 10,
+      "password_suffix": "7R10Q#7m",
+      "status": 429,
+      "json": {
+        "errorCode": "RATE_LIMITED",
+        "version": "1",
+        "status": "ERROR"
+      }
+    }
+  ],
+  "auth_method": null,
+  "error": "Unable to bootstrap auth via verify or reset",
+  "traceback": "Traceback (most recent call last):\n  File \"/home/runner/work/assistant-social-top-post-1772234269/assistant-social-top-post-1772234269/social_media_auth.py\", line 354, in <module>\n    raise RuntimeError('Unable to bootstrap auth via verify or reset')\nRuntimeError: Unable to bootstrap auth via verify or reset\n",
+  "finished_at": "2026-02-27T23:36:07Z"
+}
